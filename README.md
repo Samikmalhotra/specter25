@@ -44,7 +44,7 @@ Hi, I'm Ujjwal Agarwal (alias specter25) a FINTECH FREAK. I am a MERN STACK DEVE
 - 👯 I’m looking to collaborate on [supply-chain](https://github.com/specter25/supply-chain) 🤝;
 - 🤔 I’m looking for help with Blockchain and Hyperledger;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun Fact: There is something exciting comming in a month, stay tuned
+- ⚡️ Fun Fact: There is something exciting coming in a month, stay tuned
 - 📫 How to reach me: agarwalujjwal012@gmail.com;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 

@@ -33,18 +33,18 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=specter25.specter25)
 <br />
 
-Hi, I'm Ujjwal Agarwal (alias specter25) a FINTECH FREAK. I am a MERN STACK DVELOPER , BLOCKCHAIN  and CRYPTO enthusiast  🚀 from India, currently, I'm a Community Team Leader 🙍🏽‍♂️ [@DECODE25](https://github.com/DECODE25) , and a member of [@developer-student-club-thapar](https://github.com/developer-student-club-thapar) . Beside's programming, I enjoy gyming , travelling and reading novels. Not at all sorry to say that i am a FITNESS FREAK.
+Hi, I'm Ujjwal Agarwal (alias specter25) a FINTECH FREAK. I am a MERN STACK DEVELOPER, BLOCKCHAIN and CRYPTO enthusiast 🚀 from India, currently, I'm a Community Team Leader 🙍🏽‍♂️ [@DECODE25](https://github.com/DECODE25), and a member of [@developer-student-club-thapar](https://github.com/developer-student-club-thapar). Beside's programming, I enjoy gyming, travelling and reading novels. Not at all sorry to say that I am a FITNESS FREAK.
 
   <img align="right"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [slack-bots](https://github.com/developer-student-club-thapar/slack-bots);
-- 🌱 I’m currently learning Finacial Markets and Fintech  , Data Structures and Algorithms
+- 🌱 I’m currently learning Financial Markets, Fintech and Data Structures and Algorithms
 - 👯 I’m looking to collaborate on [supply-chain](https://github.com/specter25/supply-chain) 🤝;
 - 🤔 I’m looking for help with Blockchain and Hyperledger;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun Fact: There is something exciting comming in a month , stay tuned
+- ⚡️ Fun Fact: There is something exciting comming in a month, stay tuned
 - 📫 How to reach me: agarwalujjwal012@gmail.com;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
